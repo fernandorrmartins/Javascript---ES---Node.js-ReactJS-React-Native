@@ -1,0 +1,19 @@
+ES6 → 6 representa o ano de 201'5' + 1
+
+→ O que é?
+
+→ Quais versões?
+
+→ Babel
+    Ajuda a transcrever um código de ES em um código que os navegadores não compativeis consigam entender
+
+[Funcionalidades]
+♦ Webpack
+    ► Atualiza o navegador quando carregado um novo código para não ficar dando F5 sempre que um
+    código escritoem ES6 for alterado
+♦ Classes
+♦ Arrow functions
+♦ Desestruturação
+♦ Rest/Spread
+♦ Import/Export
+♦ Async/Await
